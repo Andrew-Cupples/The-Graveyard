@@ -2,7 +2,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_google_genai import ChatGoogleGenerativeAI
     
 # CURRENT API KEY
-GOOGLE_API_KEY = "AIzaSyBZkaHGETsGeUtLSLLjmMbAa56wBVCGcyM"
+GOOGLE_API_KEY = ""
 
 # Initiate the LLM
 def createLLM():
