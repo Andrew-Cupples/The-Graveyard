@@ -1,0 +1,100 @@
+.body {
+    height: 100vh;
+    width: 100vh;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.piece {
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.square1 {
+    height: 50px;
+    width: 50px;
+    background-color: darkgray;
+    display: inline-block;
+    outline-offset: -3px;
+}
+
+.square0 {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    display: inline-block;
+    outline-offset: -3px;
+}
+
+/* white pieces */
+
+.pawn0 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.rook0 {    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.queen0 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.bishop0 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.knight0 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.king0 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+/* black pieces */
+
+.pawn1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.rook1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.queen1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.bishop1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.knight1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.king1 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
