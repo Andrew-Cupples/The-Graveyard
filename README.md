@@ -1,5 +1,5 @@
 # The-Graveyard
-This is a graveyard of some of my failed projects.
+This is a graveyard of some of my failed projects. For the majority of these I made new projects using the skills I learned here. You can check out some of my more finished projects in my other repositories.
 
 Inhabitants:
 
